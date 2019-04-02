@@ -1,0 +1,27 @@
+{
+  "name": "files-rename",
+  "version": "1.0.0",
+  "description": "Batch modification of file names for specified folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1615450788/filesRename.git"
+  },
+  "keywords": [
+    "file",
+    "rename"
+  ],
+  "author": "jack wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1615450788/filesRename/issues"
+  },
+  "homepage": "https://github.com/1615450788/filesRename#readme",
+  "devDependencies": {
+    "jest": "^24.6.0"
+  }
+}
