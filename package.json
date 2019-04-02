@@ -1,9 +1,9 @@
 {
   "name": "file-rename",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Batch modification of file names for specified folders",
   "main": "index.js",
-  "public":true,
+  "public": true,
   "scripts": {
     "test": "jest",
     "start": "node start.js"
