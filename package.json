@@ -6,7 +6,8 @@
   "public": true,
   "scripts": {
     "test": "jest",
-    "start": "node start.js"
+    "start": "node start.js",
+    "publish": "npm version patch"
   },
   "repository": {
     "type": "git",
