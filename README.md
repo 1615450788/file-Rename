@@ -1,11 +1,11 @@
-# filesRename
+# file-rename
 
 Batch modification of file names for specified folders
 
 ## start
 
 ```
-npm i files-rename
+npm i file-rename
 ```
 
 ## Use

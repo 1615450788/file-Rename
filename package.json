@@ -1,8 +1,9 @@
 {
-  "name": "files-rename",
+  "name": "file-rename",
   "version": "1.0.1",
   "description": "Batch modification of file names for specified folders",
   "main": "index.js",
+  "public":true,
   "scripts": {
     "test": "jest",
     "start": "node start.js"
@@ -13,6 +14,9 @@
   },
   "keywords": [
     "file",
+    "node",
+    "js",
+    "javascript",
     "rename"
   ],
   "author": "jack wang",
