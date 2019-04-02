@@ -1,6 +1,6 @@
 {
   "name": "files-rename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Batch modification of file names for specified folders",
   "main": "index.js",
   "scripts": {
